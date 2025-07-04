@@ -67,13 +67,13 @@ This repository is meant to be:
 
 
 Project Structure
-
+```
 Customer-churn-model/
 │
 ├── Churn Probability (Random Forest ) Model.ipynb   ← main notebook
 ├── requirements.txt                                 ← dependency pin‑list (add yours)
 └── README.md                                        ← you are here
-
+```
 
 
 Results
