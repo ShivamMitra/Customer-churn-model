@@ -77,10 +77,11 @@ Customer-churn-model/
 
 
 Results
+```
 Metric	Value*
 Overall Accuracy	~ 88 % (demo run, will vary)
 Macro F1‑Score	~ 0.86
 Top 5 Features	TOTALDOLLARVALUETRADED, ESTINCOME, TOTALUNITSTRADED, DAYSSINCELASTLOGIN, NETREALIZEDGAINS_YTD
-
+```
 * See the final notebook cell for the exact run in your environment.
    
