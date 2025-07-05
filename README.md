@@ -11,10 +11,7 @@ The current notebook trains a **Random Forest** classifier on the popular *Tel
 3. [Approach & Notebook Walk‑through](#approach--notebook-walk%E2%80%91through)  
 4. [Quick Start](#quick-start)  
 5. [Project Structure](#project-structure)  
-6. [Results](#results)  
-7. [Next Steps](#next-steps)  
-8. [Contributing](#contributing)  
-9. [License](#license)  
+6. [Results](#results)    
 
 ---
 
@@ -60,10 +57,10 @@ This repository is meant to be:
 ## Quick Start
 
  **Clone** the repo  
----
+```
    git clone https://github.com/ShivamMitra/Customer-churn-model.git
    cd Customer-churn-model
----
+```
 
 
 Project Structure
