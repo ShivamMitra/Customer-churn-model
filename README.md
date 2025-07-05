@@ -59,8 +59,8 @@ This repository is meant to be:
 
 ## Quick Start
 
-1. **Clone** the repo  
-
+ **Clone** the repo  
+---
    git clone https://github.com/ShivamMitra/Customer-churn-model.git
    cd Customer-churn-model
 ---
